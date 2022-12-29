@@ -4,7 +4,11 @@ social-media-client
 
 # Live Website Link:
 
-https:
+https://lighthearted-pasca-80d87e.netlify.app/
 
-# Project Description:
+# Admin information:
+
+1. Email: admin@gmail.com
+2. PassWord: A$fTYTY^&&^&&^vvdh%GGHJs55hdhhsdjhG55&FGFG
+
 

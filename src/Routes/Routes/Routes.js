@@ -84,23 +84,13 @@ const router = createBrowserRouter([
                 path: '/dashboard',
                 element: <PrivateRoute><MyOrders></MyOrders></PrivateRoute>
             },
-            {
-                path: '/dashboard/allusers',
-                element: <AdminRoute><AllUsers></AllUsers></AdminRoute>
-            },
+            
             {
                 path: '/dashboard/reportedproducts',
                 element: <AdminRoute><ReportedProduct></ReportedProduct></AdminRoute>
             },
             
-            {
-                path: '/dashboard/allsellers',
-                element: <AdminRoute><AllSellers></AllSellers></AdminRoute>
-            },
-            {
-                path: '/dashboard/allpaidProducts',
-                element: <AdminRoute><AllPaidProducts></AllPaidProducts></AdminRoute>
-            },
+           
             
             
             {

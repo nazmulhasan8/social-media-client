@@ -84,8 +84,11 @@ const AddProducts = () => {
 
     return (
         <div className='h-[500px] flex justify-center items-center'>
+            
         <div className='w-96 p-7'>
-            <h2 className="text-4xl">Add A Post</h2>
+        <p className="text-4xl text-orange-600 pb-16"> SAMSUNG BOOK</p>
+        
+            <h2 className="text-3xl">Add A Post</h2>
             <form onSubmit={handleSubmit(handleAddProduct)}>
 
             <div className="form-control w-full max-w-xs hidden">
