@@ -2,6 +2,17 @@
   text-align: center;
 }
 
+.new4 {
+  background-color: rgb(255, 255, 255);
+  color: rgb(13,6,48);
+  
+}
+
+.new3{
+  background-color: rgb(245, 222, 179);
+  color: rgb(13,6,48);
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
